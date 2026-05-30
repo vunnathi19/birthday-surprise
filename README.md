@@ -18,4 +18,4 @@ A cinematic interactive birthday surprise website built using HTML, CSS and Java
 - Vanilla JavaScript
 
 ```bash
-https://yourusername.github.io/birthday-surprise/
+https://vunnathi19.github.io/birthday-surprise/
